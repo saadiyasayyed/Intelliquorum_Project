@@ -1,0 +1,21 @@
+user_input,output,flag,username,timestamp
+what is python,"Python is a high-level, interpreted programming language known for its simplicity and readability. It was created by Guido van Rossum and first released in 1991. Python supports multiple programming paradigms, including procedural, object-oriented, and functional programming, making it versatile for various applications.
+
+Some key features of Python include:
+
+1. **Readability**: Python's syntax is designed to be clear and straightforward, which makes it easy for beginners to learn and write code.
+
+2. **Extensive Libraries**: Python has a vast standard library and a rich ecosystem of third-party packages, allowing developers to implement complex functionalities without starting from scratch.
+
+3. **Cross-Platform**: Python runs on various platforms (Windows, macOS, Linux), making it portable and easy to share code across different environments.
+
+4. **Community Support**: Python has a large and active community, providing support, resources, and a wealth of documentation.
+
+5. **Applications**: Python is widely used in web development, data analysis, artificial intelligence, machine learning, scientific computing, automation, and more.
+
+6. **Interactive Mode**: Python can be used in an interactive shell, allowing developers to test code snippets quickly.
+
+Overall, Python is popular among both beginners and experienced programmers due to its ease of use and powerful capabilities.",,,2024-09-21 16:51:37.587912
+pongal,"Pongal is a popular harvest festival celebrated primarily in Tamil Nadu, India. It usually takes place in mid-January and lasts for four days. The festival is named after a traditional dish made of rice and lentils, which is also called Pongal. During the celebration, people prepare this dish and offer it to the Sun God as a mark of gratitude for the harvest. Families come together to decorate their homes, create colorful kolams (rangoli), and participate in various cultural activities. It's a time of joy, feasting, and community bonding! If you have any specific questions about Pongal or its traditions, feel free to ask!",,,2025-01-16 15:08:33.344014
+,,Submit Skill Level,,,2025-01-16 15:21:51.493126
+python,Beginner,Submit Skill Level,,,2025-01-16 15:26:13.503272
